@@ -10,7 +10,7 @@ var request = require('./request');
 var movies = require('./movies');
 
 var seriesArray = [];
-var index = 0;
+var results = [];
 
 _.forEach(movies, function (movie) {
     seriesArray.push(function (seriesCallback) {
@@ -31,7 +31,7 @@ _.forEach(movies, function (movie) {
             .then(function (result) {
                 parseString(result, function (err, data) {
                     if (data && data.xml && data.xml.badgeid) {
-                        console.log(++index + '. ' + data.xml.badgeid + ' - ' + data.xml.movie);
+                        results.push(data.xml.badgeid + ' - ' + data.xml.movie);
                     }
                     seriesCallback(null);
                 });
@@ -44,5 +44,9 @@ _.forEach(movies, function (movie) {
 });
 
 async.series(seriesArray, function (err) {
-    console.log("FINISH");
+    results = _.uniq(results);
+
+    for (var i=0; i<results.length; i++) {
+        console.log((i+1) + '. ' + results[i]);
+    }
 });
