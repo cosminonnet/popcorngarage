@@ -23,7 +23,7 @@ Note: use start=1, then start=251
 Note: use start=1, then start=251, then start=501, ......, then start=2501, then start=2751
 
 
-Test each movie for it's appearance
+Test each movie for its appearance
 -----------------------------------
 
 Make a POST request to the following address to test each movie:  
