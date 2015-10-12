@@ -8,7 +8,7 @@ var querystring = require('querystring');
 var colors = require('colors');
 var parseString = require('xml2js').parseString;
 var request = require('./request');
-var movies = require('./movies');
+var movies = require('./movies500');
 
 var seriesArray = [];
 var results = [];

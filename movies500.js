@@ -2,6 +2,9 @@
  * Created by cmolea on 12/10/2015.
  */
 
+// URL   : http://www.imdb.com/list/ls003073623/?start=1&view=compact&sort=listorian:asc
+// XPATH : //table/tbody/tr/td[contains(@class,'title')]/a
+
 Movies = [
     {
         "href": "/title/tt0068646/",
