@@ -33,7 +33,7 @@ Movies = [
     },
     {
         "href": "/title/tt0045152/",
-        "content": "Singin&#27; in the Rain"
+        "content": "Singin' in the Rain"
     },
     {
         "href": "/title/tt0110912/",
@@ -177,7 +177,7 @@ Movies = [
     },
     {
         "href": "/title/tt0108052/",
-        "content": "Schindler&#27;s List"
+        "content": "Schindler's List"
     },
     {
         "href": "/title/tt0054215/",
@@ -205,7 +205,7 @@ Movies = [
     },
     {
         "href": "/title/tt0056801/",
-        "content": "8½"
+        "content": "8 and a half"
     },
     {
         "href": "/title/tt0081505/",
@@ -313,7 +313,7 @@ Movies = [
     },
     {
         "href": "/title/tt0063522/",
-        "content": "Rosemary&#27;s Baby"
+        "content": "Rosemary's Baby"
     },
     {
         "href": "/title/tt0120863/",
@@ -353,7 +353,7 @@ Movies = [
     },
     {
         "href": "/title/tt0091042/",
-        "content": "Ferris Bueller&#27;s Day Off"
+        "content": "Ferris Bueller's Day Off"
     },
     {
         "href": "/title/tt0175880/",
@@ -421,7 +421,7 @@ Movies = [
     },
     {
         "href": "/title/tt0073486/",
-        "content": "One Flew Over the Cuckoo&#27;s Nest"
+        "content": "One Flew Over the Cuckoo's Nest"
     },
     {
         "href": "/title/tt0060665/",
@@ -469,11 +469,11 @@ Movies = [
     },
     {
         "href": "/title/tt0100150/",
-        "content": "Miller&#27;s Crossing"
+        "content": "Miller's Crossing"
     },
     {
         "href": "/title/tt0094336/",
-        "content": "Withnail &#26; I"
+        "content": "Withnail & I"
     },
     {
         "href": "/title/tt0046268/",
@@ -505,7 +505,7 @@ Movies = [
     },
     {
         "href": "/title/tt0070518/",
-        "content": "Pat Garrett &#26; Billy the Kid"
+        "content": "Pat Garrett & Billy the Kid"
     },
     {
         "href": "/title/tt0070735/",
@@ -529,7 +529,7 @@ Movies = [
     },
     {
         "href": "/title/tt0457430/",
-        "content": "Pan&#27;s Labyrinth"
+        "content": "Pan's Labyrinth"
     },
     {
         "href": "/title/tt0036775/",
@@ -581,7 +581,7 @@ Movies = [
     },
     {
         "href": "/title/tt0084707/",
-        "content": "Sophie&#27;s Choice"
+        "content": "Sophie's Choice"
     },
     {
         "href": "/title/tt0073692/",
@@ -669,7 +669,7 @@ Movies = [
     },
     {
         "href": "/title/tt0069995/",
-        "content": "Don&#27;t Look Now"
+        "content": "Don't Look Now"
     },
     {
         "href": "/title/tt0084805/",
@@ -713,7 +713,7 @@ Movies = [
     },
     {
         "href": "/title/tt0033704/",
-        "content": "Hellzapoppin&#27;"
+        "content": "Hellzapoppin'"
     },
     {
         "href": "/title/tt0120363/",
@@ -781,7 +781,7 @@ Movies = [
     },
     {
         "href": "/title/tt0038650/",
-        "content": "It&#27;s a Wonderful Life"
+        "content": "It's a Wonderful Life"
     },
     {
         "href": "/title/tt0211915/",
@@ -873,7 +873,7 @@ Movies = [
     },
     {
         "href": "/title/tt0046487/",
-        "content": "Mr. Hulot&#27;s Holiday"
+        "content": "Mr. Hulot's Holiday"
     },
     {
         "href": "/title/tt0075029/",
@@ -885,7 +885,7 @@ Movies = [
     },
     {
         "href": "/title/tt0067411/",
-        "content": "McCabe &#26; Mrs. Miller"
+        "content": "McCabe & Mrs. Miller"
     },
     {
         "href": "/title/tt0119711/",
@@ -921,7 +921,7 @@ Movies = [
     },
     {
         "href": "/title/tt0347149/",
-        "content": "Howl&#27;s Moving Castle"
+        "content": "Howl's Moving Castle"
     },
     {
         "href": "/title/tt0365748/",
@@ -993,7 +993,7 @@ Movies = [
     },
     {
         "href": "/title/tt0018737/",
-        "content": "Pandora&#27;s Box"
+        "content": "Pandora's Box"
     },
     {
         "href": "/title/tt0038762/",
@@ -1085,7 +1085,7 @@ Movies = [
     },
     {
         "href": "/title/tt0089791/",
-        "content": "Pee-wee&#27;s Big Adventure"
+        "content": "Pee-wee's Big Adventure"
     },
     {
         "href": "/title/tt0065143/",
@@ -1113,7 +1113,7 @@ Movies = [
     },
     {
         "href": "/title/tt0106519/",
-        "content": "Carlito&#27;s Way"
+        "content": "Carlito's Way"
     },
     {
         "href": "/title/tt0077975/",
@@ -1145,11 +1145,11 @@ Movies = [
     },
     {
         "href": "/title/tt0053619/",
-        "content": "L&#27;Avventura"
+        "content": "L'Avventura"
     },
     {
         "href": "/title/tt0117589/",
-        "content": "Secrets &#26; Lies"
+        "content": "Secrets & Lies"
     },
     {
         "href": "/title/tt0096438/",
@@ -1185,7 +1185,7 @@ Movies = [
     },
     {
         "href": "/title/tt0074119/",
-        "content": "All the President&#27;s Men"
+        "content": "All the President's Men"
     },
     {
         "href": "/title/tt0025316/",
@@ -1641,7 +1641,7 @@ Movies = [
     },
     {
         "href": "/title/tt0058182/",
-        "content": "A Hard Day&#27;s Night"
+        "content": "A Hard Day's Night"
     },
     {
         "href": "/title/tt0316654/",
@@ -1781,7 +1781,7 @@ Movies = [
     },
     {
         "href": "/title/tt0109686/",
-        "content": "Dumb &#26; Dumber"
+        "content": "Dumb & Dumber"
     },
     {
         "href": "/title/tt0146882/",
@@ -1849,7 +1849,7 @@ Movies = [
     },
     {
         "href": "/title/tt0419677/",
-        "content": "Dead Man&#27;s Shoes"
+        "content": "Dead Man's Shoes"
     },
     {
         "href": "/title/tt0467406/",
@@ -1901,7 +1901,7 @@ Movies = [
     },
     {
         "href": "/title/tt0383574/",
-        "content": "Pirates of the Caribbean: Dead Man&#27;s Chest"
+        "content": "Pirates of the Caribbean: Dead Man's Chest"
     },
     {
         "href": "/title/tt0098253/",
@@ -1921,7 +1921,7 @@ Movies = [
     },
     {
         "href": "/title/tt0208990/",
-        "content": "The Son&#27;s Room"
+        "content": "The Son's Room"
     },
     {
         "href": "/title/tt0151568/",
@@ -1945,7 +1945,7 @@ Movies = [
     },
     {
         "href": "/title/tt0054698/",
-        "content": "Breakfast at Tiffany&#27;s"
+        "content": "Breakfast at Tiffany's"
     },
     {
         "href": "/title/tt0829482/",
@@ -2001,7 +2001,7 @@ Movies = [
     },
     {
         "href": "/title/tt0240772/",
-        "content": "Ocean&#27;s Eleven"
+        "content": "Ocean's Eleven"
     }
 ];
 
