@@ -5,11 +5,12 @@
 var _ = require('lodash');
 var async = require('async');
 var querystring = require('querystring');
+var parseString = require('xml2js').parseString;
 var request = require('./request');
 var movies = require('./movies');
 
-
 var seriesArray = [];
+var index = 0;
 
 _.forEach(movies, function (movie) {
     seriesArray.push(function (seriesCallback) {
@@ -27,8 +28,12 @@ _.forEach(movies, function (movie) {
             }
         }, params)
         .then(function (result) {
-            console.log(result);
-            seriesCallback(null);
+            parseString(result, function (err, data) {
+                if (data.xml.badgeid) {
+                    console.log(++index + '. ' + data.xml.badgeid + ' - ' + data.xml.movie);
+                }
+                seriesCallback(null);
+            });
         })
         .fail(function (err) {
             seriesCallback(err);
