@@ -36,7 +36,7 @@ Movies = [
     },
     {
         "href": "/title/tt0073486/",
-        "content": "One Flew Over the Cuckoo&#27;s Nest"
+        "content": "One Flew Over the Cuckoo's Nest"
     },
     {
         "href": "/title/tt0167260/",
@@ -44,7 +44,7 @@ Movies = [
     },
     {
         "href": "/title/tt0108052/",
-        "content": "Schindler&#27;s List"
+        "content": "Schindler's List"
     },
     {
         "href": "/title/tt0185906/",
@@ -556,7 +556,7 @@ Movies = [
     },
     {
         "href": "/title/tt0038650/",
-        "content": "It&#27;s a Wonderful Life"
+        "content": "It's a Wonderful Life"
     },
     {
         "href": "/title/tt0044079/",
@@ -620,7 +620,7 @@ Movies = [
     },
     {
         "href": "/title/tt0063929/",
-        "content": "Monty Python&#27;s Flying Circus"
+        "content": "Monty Python's Flying Circus"
     },
     {
         "href": "/title/tt2592910/",
@@ -636,7 +636,7 @@ Movies = [
     },
     {
         "href": "/title/tt0061184/",
-        "content": "Who&#27;s Afraid of Virginia Woolf?"
+        "content": "Who's Afraid of Virginia Woolf?"
     },
     {
         "href": "/title/tt0075686/",
@@ -708,11 +708,11 @@ Movies = [
     },
     {
         "href": "/title/tt0100150/",
-        "content": "Miller&#27;s Crossing"
+        "content": "Miller's Crossing"
     },
     {
         "href": "/title/tt0457430/",
-        "content": "Pan&#27;s Labyrinth"
+        "content": "Pan's Labyrinth"
     },
     {
         "href": "/title/tt0072500/",
@@ -920,7 +920,7 @@ Movies = [
     },
     {
         "href": "/title/tt1504320/",
-        "content": "The King&#27;s Speech"
+        "content": "The King's Speech"
     },
     {
         "href": "/title/tt0107207/",
@@ -976,7 +976,7 @@ Movies = [
     },
     {
         "href": "/title/tt0283509/",
-        "content": "No Man&#27;s Land"
+        "content": "No Man's Land"
     },
     {
         "href": "/title/tt0116282/",
@@ -1060,7 +1060,7 @@ Movies = [
     },
     {
         "href": "/title/tt0054698/",
-        "content": "Breakfast at Tiffany&#27;s"
+        "content": "Breakfast at Tiffany's"
     },
     {
         "href": "/title/tt0416449/",
@@ -1332,11 +1332,11 @@ Movies = [
     },
     {
         "href": "/title/tt0256009/",
-        "content": "The Devil&#27;s Backbone"
+        "content": "The Devil's Backbone"
     },
     {
         "href": "/title/tt0024844/",
-        "content": "L&#27;Atalante"
+        "content": "L'Atalante"
     },
     {
         "href": "/title/tt0074006/",
@@ -1352,7 +1352,7 @@ Movies = [
     },
     {
         "href": "/title/tt0034240/",
-        "content": "Sullivan&#27;s Travels"
+        "content": "Sullivan's Travels"
     },
     {
         "href": "/title/tt0109508/",
@@ -1504,7 +1504,7 @@ Movies = [
     },
     {
         "href": "/title/tt0069467/",
-        "content": "Cries &#26; Whispers"
+        "content": "Cries & Whispers"
     },
     {
         "href": "/title/tt1748122/",
@@ -1556,7 +1556,7 @@ Movies = [
     },
     {
         "href": "/title/tt0353049/",
-        "content": "Chappelle&#27;s Show"
+        "content": "Chappelle's Show"
     },
     {
         "href": "/title/tt1278469/",
@@ -1612,7 +1612,7 @@ Movies = [
     },
     {
         "href": "/title/tt0388789/",
-        "content": "Born Into Brothels: Calcutta&#27;s Red Light Kids"
+        "content": "Born Into Brothels: Calcutta's Red Light Kids"
     },
     {
         "href": "/title/tt1555149/",
@@ -1620,7 +1620,7 @@ Movies = [
     },
     {
         "href": "/title/tt0091042/",
-        "content": "Ferris Bueller&#27;s Day Off"
+        "content": "Ferris Bueller's Day Off"
     },
     {
         "href": "/title/tt0057091/",
@@ -1696,7 +1696,7 @@ Movies = [
     },
     {
         "href": "/title/tt0106519/",
-        "content": "Carlito&#27;s Way"
+        "content": "Carlito's Way"
     },
     {
         "href": "/title/tt0970179/",
@@ -1720,7 +1720,7 @@ Movies = [
     },
     {
         "href": "/title/tt0092603/",
-        "content": "Babette&#27;s Feast"
+        "content": "Babette's Feast"
     },
     {
         "href": "/title/tt0427944/",
@@ -1776,7 +1776,7 @@ Movies = [
     },
     {
         "href": "/title/tt0058182/",
-        "content": "A Hard Day&#27;s Night"
+        "content": "A Hard Day's Night"
     },
     {
         "href": "/title/tt0055018/",
@@ -1820,7 +1820,7 @@ Movies = [
     },
     {
         "href": "/title/tt0416716/",
-        "content": "Empire of Dreams: The Story of the &#27;Star Wars&#27; Trilogy"
+        "content": "Empire of Dreams: The Story of the 'Star Wars' Trilogy"
     },
     {
         "href": "/title/tt0055032/",
@@ -1880,7 +1880,7 @@ Movies = [
     },
     {
         "href": "/title/tt0108550/",
-        "content": "What&#27;s Eating Gilbert Grape"
+        "content": "What's Eating Gilbert Grape"
     },
     {
         "href": "/title/tt0275491/",
@@ -1968,7 +1968,7 @@ Movies = [
     },
     {
         "href": "/title/tt0030993/",
-        "content": "You Can&#27;t Take It With You"
+        "content": "You Can't Take It With You"
     },
     {
         "href": "/title/tt0061847/",
@@ -2076,7 +2076,7 @@ Movies = [
     },
     {
         "href": "/title/tt0097814/",
-        "content": "Kiki&#27;s Delivery Service"
+        "content": "Kiki's Delivery Service"
     },
     {
         "href": "/title/tt2375559/",
@@ -2152,7 +2152,7 @@ Movies = [
     },
     {
         "href": "/title/tt0158983/",
-        "content": "South Park: Bigger Longer &#26; Uncut"
+        "content": "South Park: Bigger Longer & Uncut"
     },
     {
         "href": "/title/tt0308644/",
@@ -2192,7 +2192,7 @@ Movies = [
     },
     {
         "href": "/title/tt0102015/",
-        "content": "Hearts of Darkness: A Filmmaker&#27;s Apocalypse"
+        "content": "Hearts of Darkness: A Filmmaker's Apocalypse"
     },
     {
         "href": "/title/tt0389557/",
@@ -2216,7 +2216,7 @@ Movies = [
     },
     {
         "href": "/title/tt0056736/",
-        "content": "L&#27;Eclisse"
+        "content": "L'Eclisse"
     },
     {
         "href": "/title/tt1403865/",
@@ -2460,7 +2460,7 @@ Movies = [
     },
     {
         "href": "/title/tt0251654/",
-        "content": "Dave Chappelle: Killin&#27; Them Softly"
+        "content": "Dave Chappelle: Killin' Them Softly"
     },
     {
         "href": "/title/tt0198781/",
@@ -2496,7 +2496,7 @@ Movies = [
     },
     {
         "href": "/title/tt0171804/",
-        "content": "Boys Don&#27;t Cry"
+        "content": "Boys Don't Cry"
     },
     {
         "href": "/title/tt0379786/",
@@ -2660,11 +2660,11 @@ Movies = [
     },
     {
         "href": "/title/tt1028532/",
-        "content": "Hachi: A Dog&#27;s Tale"
+        "content": "Hachi: A Dog's Tale"
     },
     {
         "href": "/title/tt0067411/",
-        "content": "McCabe &#26; Mrs. Miller"
+        "content": "McCabe & Mrs. Miller"
     },
     {
         "href": "/title/tt0119349/",
@@ -2848,7 +2848,7 @@ Movies = [
     },
     {
         "href": "/title/tt0099871/",
-        "content": "Jacob&#27;s Ladder"
+        "content": "Jacob's Ladder"
     },
     {
         "href": "/title/tt0354899/",
@@ -2872,7 +2872,7 @@ Movies = [
     },
     {
         "href": "/title/tt1227926/",
-        "content": "Dr. Horrible&#27;s Sing-Along Blog"
+        "content": "Dr. Horrible's Sing-Along Blog"
     },
     {
         "href": "/title/tt0218839/",
@@ -2900,7 +2900,7 @@ Movies = [
     },
     {
         "href": "/title/tt0414387/",
-        "content": "Pride &#26; Prejudice"
+        "content": "Pride & Prejudice"
     },
     {
         "href": "/title/tt0059592/",
@@ -2936,7 +2936,7 @@ Movies = [
     },
     {
         "href": "/title/tt0065088/",
-        "content": "They Shoot Horses, Don&#27;t They?"
+        "content": "They Shoot Horses, Don't They?"
     },
     {
         "href": "/title/tt0304141/",
@@ -2948,7 +2948,7 @@ Movies = [
     },
     {
         "href": "/title/tt0084707/",
-        "content": "Sophie&#27;s Choice"
+        "content": "Sophie's Choice"
     },
     {
         "href": "/title/tt0150662/",
@@ -3000,7 +3000,7 @@ Movies = [
     },
     {
         "href": "/title/tt0283900/",
-        "content": "L&#27;auberge espagnole"
+        "content": "L'auberge espagnole"
     },
     {
         "href": "/title/tt0026138/",
@@ -3020,7 +3020,7 @@ Movies = [
     },
     {
         "href": "/title/tt1905041/",
-        "content": "Fast &#26; Furious 6"
+        "content": "Fast & Furious 6"
     },
     {
         "href": "/title/tt0262150/",
@@ -3084,7 +3084,7 @@ Movies = [
     },
     {
         "href": "/title/tt0056111/",
-        "content": "Ivan&#27;s Childhood"
+        "content": "Ivan's Childhood"
     },
     {
         "href": "/title/tt0116905/",
@@ -3224,7 +3224,7 @@ Movies = [
     },
     {
         "href": "/title/tt0418455/",
-        "content": "Adam&#27;s Apples"
+        "content": "Adam's Apples"
     },
     {
         "href": "/title/tt0056291/",
@@ -3232,11 +3232,11 @@ Movies = [
     },
     {
         "href": "/title/tt0118789/",
-        "content": "Buffalo &#27;66"
+        "content": "Buffalo '66"
     },
     {
         "href": "/title/tt0069995/",
-        "content": "Don&#27;t Look Now"
+        "content": "Don't Look Now"
     },
     {
         "href": "/title/tt0078875/",
@@ -3432,7 +3432,7 @@ Movies = [
     },
     {
         "href": "/title/tt0401711/",
-        "content": "Paris, je t&#27;aime"
+        "content": "Paris, je t'aime"
     },
     {
         "href": "/title/tt0074860/",
@@ -3476,7 +3476,7 @@ Movies = [
     },
     {
         "href": "/title/tt0055233/",
-        "content": "The Human Condition III: A Soldier&#27;s Prayer"
+        "content": "The Human Condition III: A Soldier's Prayer"
     },
     {
         "href": "/title/tt0056663/",
@@ -3520,7 +3520,7 @@ Movies = [
     },
     {
         "href": "/title/tt0240772/",
-        "content": "Ocean&#27;s Eleven"
+        "content": "Ocean's Eleven"
     },
     {
         "href": "/title/tt0067128/",
@@ -3528,7 +3528,7 @@ Movies = [
     },
     {
         "href": "/title/tt0250052/",
-        "content": "Tom and Jerry&#27;s Greatest Chases"
+        "content": "Tom and Jerry's Greatest Chases"
     },
     {
         "href": "/title/tt0032138/",
@@ -3556,7 +3556,7 @@ Movies = [
     },
     {
         "href": "/title/tt1068649/",
-        "content": "I&#27;ve Loved You So Long"
+        "content": "I've Loved You So Long"
     },
     {
         "href": "/title/tt0023427/",
@@ -3780,7 +3780,7 @@ Movies = [
     },
     {
         "href": "/title/tt0417791/",
-        "content": "Rory O&#27;Shea Was Here"
+        "content": "Rory O'Shea Was Here"
     },
     {
         "href": "/title/tt0427312/",
@@ -3864,11 +3864,11 @@ Movies = [
     },
     {
         "href": "/title/tt0383574/",
-        "content": "Pirates of the Caribbean: Dead Man&#27;s Chest"
+        "content": "Pirates of the Caribbean: Dead Man's Chest"
     },
     {
         "href": "/title/tt0288439/",
-        "content": "Bang Bang You&#27;re Dead"
+        "content": "Bang Bang You're Dead"
     },
     {
         "href": "/title/tt0424227/",
@@ -3876,7 +3876,7 @@ Movies = [
     },
     {
         "href": "/title/tt0098213/",
-        "content": "Roger &#26; Me"
+        "content": "Roger & Me"
     },
     {
         "href": "/title/tt0054632/",
@@ -3888,7 +3888,7 @@ Movies = [
     },
     {
         "href": "/title/tt0097108/",
-        "content": "The Cook, the Thief, His Wife &#26; Her Lover"
+        "content": "The Cook, the Thief, His Wife & Her Lover"
     },
     {
         "href": "/title/tt0057129/",
@@ -3932,7 +3932,7 @@ Movies = [
     },
     {
         "href": "/title/tt0021577/",
-        "content": "L&#27;Age d&#27;Or"
+        "content": "L'Age d'Or"
     },
     {
         "href": "/title/tt0111507/",
@@ -3940,7 +3940,7 @@ Movies = [
     },
     {
         "href": "/title/tt0478209/",
-        "content": "Metal: A Headbanger&#27;s Journey"
+        "content": "Metal: A Headbanger's Journey"
     },
     {
         "href": "/title/tt0067093/",
@@ -3956,7 +3956,7 @@ Movies = [
     },
     {
         "href": "/title/tt0419677/",
-        "content": "Dead Man&#27;s Shoes"
+        "content": "Dead Man's Shoes"
     },
     {
         "href": "/title/tt0074084/",
@@ -3996,7 +3996,7 @@ Movies = [
     },
     {
         "href": "/title/tt0061735/",
-        "content": "Guess Who&#27;s Coming to Dinner"
+        "content": "Guess Who's Coming to Dinner"
     },
     {
         "href": "/title/tt0100935/",
@@ -4252,7 +4252,7 @@ Movies = [
     },
     {
         "href": "/title/tt0326977/",
-        "content": "I&#27;m Not Scared"
+        "content": "I'm Not Scared"
     },
     {
         "href": "/title/tt0840361/",
@@ -4292,7 +4292,7 @@ Movies = [
     },
     {
         "href": "/title/tt0412080/",
-        "content": "The World&#27;s Fastest Indian"
+        "content": "The World's Fastest Indian"
     },
     {
         "href": "/title/tt0041452/",
@@ -4396,7 +4396,7 @@ Movies = [
     },
     {
         "href": "/title/tt0165598/",
-        "content": "That &#27;70s Show"
+        "content": "That '70s Show"
     },
     {
         "href": "/title/tt0085859/",
@@ -4492,11 +4492,11 @@ Movies = [
     },
     {
         "href": "/title/tt0037077/",
-        "content": "The Miracle of Morgan&#27;s Creek"
+        "content": "The Miracle of Morgan's Creek"
     },
     {
         "href": "/title/tt0067992/",
-        "content": "Willy Wonka &#26; the Chocolate Factory"
+        "content": "Willy Wonka & the Chocolate Factory"
     },
     {
         "href": "/title/tt0465551/",
@@ -4664,7 +4664,7 @@ Movies = [
     },
     {
         "href": "/title/tt0417349/",
-        "content": "North &#26; South"
+        "content": "North & South"
     },
     {
         "href": "/title/tt0103994/",
@@ -4808,7 +4808,7 @@ Movies = [
     },
     {
         "href": "/title/tt0041090/",
-        "content": "Adam&#27;s Rib"
+        "content": "Adam's Rib"
     },
     {
         "href": "/title/tt0378793/",
@@ -4976,11 +4976,11 @@ Movies = [
     },
     {
         "href": "/title/tt0006864/",
-        "content": "Intolerance: Love&#27;s Struggle Throughout the Ages"
+        "content": "Intolerance: Love's Struggle Throughout the Ages"
     },
     {
         "href": "/title/tt0449088/",
-        "content": "Pirates of the Caribbean: At World&#27;s End"
+        "content": "Pirates of the Caribbean: At World's End"
     },
     {
         "href": "/title/tt0058430/",
@@ -5088,7 +5088,7 @@ Movies = [
     },
     {
         "href": "/title/tt0119472/",
-        "content": "Knockin&#27; on Heaven&#27;s Door"
+        "content": "Knockin' on Heaven's Door"
     },
     {
         "href": "/title/tt0049223/",
@@ -5252,7 +5252,7 @@ Movies = [
     },
     {
         "href": "/title/tt0100519/",
-        "content": "Rosencrantz &#26; Guildenstern Are Dead"
+        "content": "Rosencrantz & Guildenstern Are Dead"
     },
     {
         "href": "/title/tt0217505/",
@@ -5344,7 +5344,7 @@ Movies = [
     },
     {
         "href": "/title/tt0051189/",
-        "content": "What&#27;s Opera, Doc?"
+        "content": "What's Opera, Doc?"
     },
     {
         "href": "/title/tt0361596/",
@@ -5408,7 +5408,7 @@ Movies = [
     },
     {
         "href": "/title/tt1032856/",
-        "content": "The Band&#27;s Visit"
+        "content": "The Band's Visit"
     },
     {
         "href": "/title/tt2130321/",
@@ -5432,7 +5432,7 @@ Movies = [
     },
     {
         "href": "/title/tt0471711/",
-        "content": "Futurama: Bender&#27;s Big Score"
+        "content": "Futurama: Bender's Big Score"
     },
     {
         "href": "/title/tt0181689/",
@@ -5492,7 +5492,7 @@ Movies = [
     },
     {
         "href": "/title/tt0112379/",
-        "content": "Antonia&#27;s Line"
+        "content": "Antonia's Line"
     },
     {
         "href": "/title/tt0165832/",
@@ -5576,7 +5576,7 @@ Movies = [
     },
     {
         "href": "/title/tt1132623/",
-        "content": "You Don&#27;t Know Jack"
+        "content": "You Don't Know Jack"
     },
     {
         "href": "/title/tt0081059/",
@@ -5592,7 +5592,7 @@ Movies = [
     },
     {
         "href": "/title/tt0076276/",
-        "content": "Who&#27;s Singin&#27; Over There?"
+        "content": "Who's Singin' Over There?"
     },
     {
         "href": "/title/tt1242422/",
@@ -5604,7 +5604,7 @@ Movies = [
     },
     {
         "href": "/title/tt0018737/",
-        "content": "Pandora&#27;s Box"
+        "content": "Pandora's Box"
     },
     {
         "href": "/title/tt0420332/",
@@ -5612,7 +5612,7 @@ Movies = [
     },
     {
         "href": "/title/tt1399683/",
-        "content": "Winter&#27;s Bone"
+        "content": "Winter's Bone"
     },
     {
         "href": "/title/tt0276751/",
@@ -5644,7 +5644,7 @@ Movies = [
     },
     {
         "href": "/title/tt0054743/",
-        "content": "The Children&#27;s Hour"
+        "content": "The Children's Hour"
     },
     {
         "href": "/title/tt0037059/",
@@ -5756,7 +5756,7 @@ Movies = [
     },
     {
         "href": "/title/tt0065938/",
-        "content": "Kelly&#27;s Heroes"
+        "content": "Kelly's Heroes"
     },
     {
         "href": "/title/tt0104361/",
@@ -5764,7 +5764,7 @@ Movies = [
     },
     {
         "href": "/title/tt0466460/",
-        "content": "Khosla&#27;s Nest"
+        "content": "Khosla's Nest"
     },
     {
         "href": "/title/tt1358522/",
@@ -5784,11 +5784,11 @@ Movies = [
     },
     {
         "href": "/title/tt0866442/",
-        "content": "Eastbound &#26; Down"
+        "content": "Eastbound & Down"
     },
     {
         "href": "/title/tt0069495/",
-        "content": "What&#27;s Up, Doc?"
+        "content": "What's Up, Doc?"
     },
     {
         "href": "/title/tt0397535/",
@@ -6008,7 +6008,7 @@ Movies = [
     },
     {
         "href": "/title/tt0071115/",
-        "content": "Alice Doesn&#27;t Live Here Anymore"
+        "content": "Alice Doesn't Live Here Anymore"
     },
     {
         "href": "/title/tt0062138/",
@@ -6080,7 +6080,7 @@ Movies = [
     },
     {
         "href": "/title/tt1277953/",
-        "content": "Madagascar 3: Europe&#27;s Most Wanted"
+        "content": "Madagascar 3: Europe's Most Wanted"
     },
     {
         "href": "/title/tt2014338/",
@@ -6212,7 +6212,7 @@ Movies = [
     },
     {
         "href": "/title/tt0456554/",
-        "content": "Grandma&#27;s Boy"
+        "content": "Grandma's Boy"
     },
     {
         "href": "/title/tt0075968/",
@@ -6288,7 +6288,7 @@ Movies = [
     },
     {
         "href": "/title/tt0822832/",
-        "content": "Marley &#26; Me"
+        "content": "Marley & Me"
     },
     {
         "href": "/title/tt0318034/",
@@ -6368,7 +6368,7 @@ Movies = [
     },
     {
         "href": "/title/tt0208990/",
-        "content": "The Son&#27;s Room"
+        "content": "The Son's Room"
     },
     {
         "href": "/title/tt0096754/",
@@ -6388,7 +6388,7 @@ Movies = [
     },
     {
         "href": "/title/tt0094525/",
-        "content": "Agatha Christie&#27;s Poirot"
+        "content": "Agatha Christie's Poirot"
     },
     {
         "href": "/title/tt0174856/",
@@ -6492,7 +6492,7 @@ Movies = [
     },
     {
         "href": "/title/tt0037800/",
-        "content": "&#27;I Know Where I&#27;m Going!&#27;"
+        "content": "'I Know Where I'm Going!'"
     },
     {
         "href": "/title/tt0822854/",
@@ -6524,7 +6524,7 @@ Movies = [
     },
     {
         "href": "/title/tt0105933/",
-        "content": "The Adventures of Pete &#26; Pete"
+        "content": "The Adventures of Pete & Pete"
     },
     {
         "href": "/title/tt0031762/",
@@ -6548,7 +6548,7 @@ Movies = [
     },
     {
         "href": "/title/tt1213663/",
-        "content": "The World&#27;s End"
+        "content": "The World's End"
     },
     {
         "href": "/title/tt0033152/",
@@ -6584,7 +6584,7 @@ Movies = [
     },
     {
         "href": "/title/tt1566648/",
-        "content": "Waiting for &#27;Superman&#27;"
+        "content": "Waiting for 'Superman'"
     },
     {
         "href": "/title/tt0030637/",
@@ -6700,7 +6700,7 @@ Movies = [
     },
     {
         "href": "/title/tt0043137/",
-        "content": "Winchester &#27;73"
+        "content": "Winchester '73"
     },
     {
         "href": "/title/tt0424880/",
@@ -6780,7 +6780,7 @@ Movies = [
     },
     {
         "href": "/title/tt0963207/",
-        "content": "George Carlin... It&#27;s Bad for Ya!"
+        "content": "George Carlin... It's Bad for Ya!"
     },
     {
         "href": "/title/tt0032701/",
@@ -6796,7 +6796,7 @@ Movies = [
     },
     {
         "href": "/title/tt0424934/",
-        "content": "Dave Chappelle: For What It&#27;s Worth"
+        "content": "Dave Chappelle: For What It's Worth"
     },
     {
         "href": "/title/tt1080016/",
@@ -7040,7 +7040,7 @@ Movies = [
     },
     {
         "href": "/title/tt0397150/",
-        "content": "Garth Marenghi&#27;s Darkplace"
+        "content": "Garth Marenghi's Darkplace"
     },
     {
         "href": "/title/tt0031455/",
@@ -7048,7 +7048,7 @@ Movies = [
     },
     {
         "href": "/title/tt1723121/",
-        "content": "We&#27;re the Millers"
+        "content": "We're the Millers"
     },
     {
         "href": "/title/tt0103584/",
@@ -7144,7 +7144,7 @@ Movies = [
     },
     {
         "href": "/title/tt0366551/",
-        "content": "Harold &#26; Kumar Go to White Castle"
+        "content": "Harold & Kumar Go to White Castle"
     },
     {
         "href": "/title/tt0084237/",
@@ -7188,7 +7188,7 @@ Movies = [
     },
     {
         "href": "/title/tt0129387/",
-        "content": "There&#27;s Something About Mary"
+        "content": "There's Something About Mary"
     },
     {
         "href": "/title/tt0257360/",
@@ -7200,7 +7200,7 @@ Movies = [
     },
     {
         "href": "/title/tt0108330/",
-        "content": "This Boy&#27;s Life"
+        "content": "This Boy's Life"
     },
     {
         "href": "/title/tt0201368/",
@@ -7284,7 +7284,7 @@ Movies = [
     },
     {
         "href": "/title/tt0041113/",
-        "content": "All the King&#27;s Men"
+        "content": "All the King's Men"
     },
     {
         "href": "/title/tt0166396/",
@@ -7320,7 +7320,7 @@ Movies = [
     },
     {
         "href": "/title/tt0057193/",
-        "content": "It&#27;s a Mad, Mad, Mad, Mad World"
+        "content": "It's a Mad, Mad, Mad, Mad World"
     },
     {
         "href": "/title/tt0433416/",
@@ -7376,7 +7376,7 @@ Movies = [
     },
     {
         "href": "/title/tt0056196/",
-        "content": "Long Day&#27;s Journey Into Night"
+        "content": "Long Day's Journey Into Night"
     },
     {
         "href": "/title/tt0273028/",
@@ -7428,7 +7428,7 @@ Movies = [
     },
     {
         "href": "/title/tt0206636/",
-        "content": "Chris Rock: Bigger &#26; Blacker"
+        "content": "Chris Rock: Bigger & Blacker"
     },
     {
         "href": "/title/tt0416508/",
@@ -7472,7 +7472,7 @@ Movies = [
     },
     {
         "href": "/title/tt0241527/",
-        "content": "Harry Potter and the Sorcerer&#27;s Stone"
+        "content": "Harry Potter and the Sorcerer's Stone"
     },
     {
         "href": "/title/tt0075213/",
@@ -7504,7 +7504,7 @@ Movies = [
     },
     {
         "href": "/title/tt0324013/",
-        "content": "Soldier&#27;s Girl"
+        "content": "Soldier's Girl"
     },
     {
         "href": "/title/tt0083390/",
@@ -7544,7 +7544,7 @@ Movies = [
     },
     {
         "href": "/title/tt0388139/",
-        "content": "It&#27;s All Gone Pete Tong"
+        "content": "It's All Gone Pete Tong"
     },
     {
         "href": "/title/tt0842926/",
@@ -7580,7 +7580,7 @@ Movies = [
     },
     {
         "href": "/title/tt0131409/",
-        "content": "Geri&#27;s Game"
+        "content": "Geri's Game"
     },
     {
         "href": "/title/tt0082158/",
@@ -7724,7 +7724,7 @@ Movies = [
     },
     {
         "href": "/title/tt0041996/",
-        "content": "Twelve O&#27;Clock High"
+        "content": "Twelve O'Clock High"
     },
     {
         "href": "/title/tt0079367/",
@@ -7736,7 +7736,7 @@ Movies = [
     },
     {
         "href": "/title/tt0368794/",
-        "content": "I&#27;m Not There."
+        "content": "I'm Not There."
     },
     {
         "href": "/title/tt0283832/",
@@ -7792,7 +7792,7 @@ Movies = [
     },
     {
         "href": "/title/tt0061781/",
-        "content": "The Firemen&#27;s Ball"
+        "content": "The Firemen's Ball"
     },
     {
         "href": "/title/tt0106364/",
@@ -7812,7 +7812,7 @@ Movies = [
     },
     {
         "href": "/title/tt0418038/",
-        "content": "Outfoxed: Rupert Murdoch&#27;s War on Journalism"
+        "content": "Outfoxed: Rupert Murdoch's War on Journalism"
     },
     {
         "href": "/title/tt0169858/",
@@ -7900,7 +7900,7 @@ Movies = [
     },
     {
         "href": "/title/tt0496806/",
-        "content": "Ocean&#27;s Thirteen"
+        "content": "Ocean's Thirteen"
     },
     {
         "href": "/title/tt0094721/",
@@ -7984,7 +7984,7 @@ Movies = [
     },
     {
         "href": "/title/tt1620446/",
-        "content": "Day &#26; Night"
+        "content": "Day & Night"
     },
     {
         "href": "/title/tt2359810/",
@@ -8008,7 +8008,7 @@ Movies = [
     },
     {
         "href": "/title/tt0129690/",
-        "content": "I&#27;m Alan Partridge"
+        "content": "I'm Alan Partridge"
     },
     {
         "href": "/title/tt0200087/",
@@ -8020,7 +8020,7 @@ Movies = [
     },
     {
         "href": "/title/tt2094262/",
-        "content": "Da Vinci&#27;s Demons"
+        "content": "Da Vinci's Demons"
     },
     {
         "href": "/title/tt1034303/",
@@ -8032,7 +8032,7 @@ Movies = [
     },
     {
         "href": "/title/tt0099669/",
-        "content": "My Father&#27;s Glory"
+        "content": "My Father's Glory"
     },
     {
         "href": "/title/tt0074749/",
@@ -8040,7 +8040,7 @@ Movies = [
     },
     {
         "href": "/title/tt0106387/",
-        "content": "Benny &#26; Joon"
+        "content": "Benny & Joon"
     },
     {
         "href": "/title/tt1136608/",
@@ -8144,7 +8144,7 @@ Movies = [
     },
     {
         "href": "/title/tt1013752/",
-        "content": "Fast &#26; Furious"
+        "content": "Fast & Furious"
     },
     {
         "href": "/title/tt0033028/",
@@ -8180,7 +8180,7 @@ Movies = [
     },
     {
         "href": "/title/tt0064612/",
-        "content": "My Night at Maud&#27;s"
+        "content": "My Night at Maud's"
     },
     {
         "href": "/title/tt0089755/",
@@ -8188,7 +8188,7 @@ Movies = [
     },
     {
         "href": "/title/tt0271383/",
-        "content": "A Dog&#27;s Will"
+        "content": "A Dog's Will"
     },
     {
         "href": "/title/tt0035279/",
@@ -8216,7 +8216,7 @@ Movies = [
     },
     {
         "href": "/title/tt0485241/",
-        "content": "Don&#27;t Worry, I&#27;m Fine"
+        "content": "Don't Worry, I'm Fine"
     },
     {
         "href": "/title/tt1839492/",
@@ -8268,7 +8268,7 @@ Movies = [
     },
     {
         "href": "/title/tt0285742/",
-        "content": "Monster&#27;s Ball"
+        "content": "Monster's Ball"
     },
     {
         "href": "/title/tt0491747/",
@@ -8356,7 +8356,7 @@ Movies = [
     },
     {
         "href": "/title/tt0203259/",
-        "content": "Law &#26; Order: Special Victims Unit"
+        "content": "Law & Order: Special Victims Unit"
     },
     {
         "href": "/title/tt0462504/",
@@ -8380,7 +8380,7 @@ Movies = [
     },
     {
         "href": "/title/tt0093748/",
-        "content": "Planes, Trains &#26; Automobiles"
+        "content": "Planes, Trains & Automobiles"
     },
     {
         "href": "/title/tt0234288/",
@@ -8484,7 +8484,7 @@ Movies = [
     },
     {
         "href": "/title/tt0292963/",
-        "content": "Before the Devil Knows You&#27;re Dead"
+        "content": "Before the Devil Knows You're Dead"
     },
     {
         "href": "/title/tt0016641/",
@@ -8744,7 +8744,7 @@ Movies = [
     },
     {
         "href": "/title/tt0410097/",
-        "content": "Hustle &#26; Flow"
+        "content": "Hustle & Flow"
     },
     {
         "href": "/title/tt0039224/",
@@ -8888,7 +8888,7 @@ Movies = [
     },
     {
         "href": "/title/tt0110598/",
-        "content": "Muriel&#27;s Wedding"
+        "content": "Muriel's Wedding"
     },
     {
         "href": "/title/tt0108188/",
@@ -8916,7 +8916,7 @@ Movies = [
     },
     {
         "href": "/title/tt0472062/",
-        "content": "Charlie Wilson&#27;s War"
+        "content": "Charlie Wilson's War"
     },
     {
         "href": "/title/tt0397619/",
@@ -8940,7 +8940,7 @@ Movies = [
     },
     {
         "href": "/title/tt0080549/",
-        "content": "Coal Miner&#27;s Daughter"
+        "content": "Coal Miner's Daughter"
     },
     {
         "href": "/title/tt1204340/",
@@ -8972,7 +8972,7 @@ Movies = [
     },
     {
         "href": "/title/tt0085995/",
-        "content": "National Lampoon&#27;s Vacation"
+        "content": "National Lampoon's Vacation"
     },
     {
         "href": "/title/tt0037515/",
@@ -9020,7 +9020,7 @@ Movies = [
     },
     {
         "href": "/title/tt0046487/",
-        "content": "Mr. Hulot&#27;s Holiday"
+        "content": "Mr. Hulot's Holiday"
     },
     {
         "href": "/title/tt0245844/",
@@ -9036,7 +9036,7 @@ Movies = [
     },
     {
         "href": "/title/tt1990314/",
-        "content": "Robot &#26; Frank"
+        "content": "Robot & Frank"
     },
     {
         "href": "/title/tt0832266/",
@@ -9172,11 +9172,11 @@ Movies = [
     },
     {
         "href": "/title/tt0385017/",
-        "content": "In My Father&#27;s Den"
+        "content": "In My Father's Den"
     },
     {
         "href": "/title/tt0762107/",
-        "content": "I Now Pronounce You Chuck &#26; Larry"
+        "content": "I Now Pronounce You Chuck & Larry"
     },
     {
         "href": "/title/tt0037635/",
@@ -9184,7 +9184,7 @@ Movies = [
     },
     {
         "href": "/title/tt0263438/",
-        "content": "Everything&#27;s Gonna Be Great"
+        "content": "Everything's Gonna Be Great"
     },
     {
         "href": "/title/tt0309698/",
@@ -9292,11 +9292,11 @@ Movies = [
     },
     {
         "href": "/title/tt0145653/",
-        "content": "Angela&#27;s Ashes"
+        "content": "Angela's Ashes"
     },
     {
         "href": "/title/tt2608224/",
-        "content": "The Butterfly&#27;s Dream"
+        "content": "The Butterfly's Dream"
     },
     {
         "href": "/title/tt0025913/",
@@ -9424,7 +9424,7 @@ Movies = [
     },
     {
         "href": "/title/tt0086659/",
-        "content": "&#27;Allo &#27;Allo!"
+        "content": "'Allo 'Allo!"
     },
     {
         "href": "/title/tt0129686/",
@@ -9556,7 +9556,7 @@ Movies = [
     },
     {
         "href": "/title/tt0103074/",
-        "content": "Thelma &#26; Louise"
+        "content": "Thelma & Louise"
     },
     {
         "href": "/title/tt0061619/",
@@ -9604,7 +9604,7 @@ Movies = [
     },
     {
         "href": "/title/tt1423894/",
-        "content": "Barney&#27;s Version"
+        "content": "Barney's Version"
     },
     {
         "href": "/title/tt0411272/",
@@ -9688,7 +9688,7 @@ Movies = [
     },
     {
         "href": "/title/tt0060550/",
-        "content": "It&#27;s the Great Pumpkin, Charlie Brown"
+        "content": "It's the Great Pumpkin, Charlie Brown"
     },
     {
         "href": "/title/tt0290329/",
@@ -9724,7 +9724,7 @@ Movies = [
     },
     {
         "href": "/title/tt0105793/",
-        "content": "Wayne&#27;s World"
+        "content": "Wayne's World"
     },
     {
         "href": "/title/tt0942384/",
@@ -9992,7 +9992,7 @@ Movies = [
     },
     {
         "href": "/title/tt1668200/",
-        "content": "Sarah&#27;s Key"
+        "content": "Sarah's Key"
     },
     {
         "href": "/title/tt0084917/",
@@ -10032,7 +10032,7 @@ Movies = [
     },
     {
         "href": "/title/tt1135503/",
-        "content": "Julie &#26; Julia"
+        "content": "Julie & Julia"
     },
     {
         "href": "/title/tt0845046/",
@@ -10048,7 +10048,7 @@ Movies = [
     },
     {
         "href": "/title/tt0039190/",
-        "content": "The Bishop&#27;s Wife"
+        "content": "The Bishop's Wife"
     },
     {
         "href": "/title/tt0118767/",
@@ -10104,7 +10104,7 @@ Movies = [
     },
     {
         "href": "/title/tt0039416/",
-        "content": "Gentleman&#27;s Agreement"
+        "content": "Gentleman's Agreement"
     },
     {
         "href": "/title/tt0074285/",
@@ -10160,7 +10160,7 @@ Movies = [
     },
     {
         "href": "/title/tt0804497/",
-        "content": "It&#27;s Kind of a Funny Story"
+        "content": "It's Kind of a Funny Story"
     },
     {
         "href": "/title/tt0105265/",
@@ -10184,7 +10184,7 @@ Movies = [
     },
     {
         "href": "/title/tt0110684/",
-        "content": "Nobody&#27;s Fool"
+        "content": "Nobody's Fool"
     },
     {
         "href": "/title/tt0970468/",
