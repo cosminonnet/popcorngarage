@@ -51,7 +51,12 @@ _.forEach(movies, function (movie) {
 async.series(seriesArray, function (err) {
     results = _.uniq(results);
 
-    for (var i=0; i<results.length; i++) {
-        console.log((i+1) + '. ' + results[i]);
+    console.log();
+    console.log('PopCorn Garage Movies :'.green);
+    console.log('-----------------------'.green);
+
+    for (var i = 0; i < results.length; i++) {
+        var result = (i + 1) + '. ' + results[i];
+        console.log(result.green);
     }
 });
