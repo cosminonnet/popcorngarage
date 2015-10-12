@@ -2005,4 +2005,4 @@ Movies = [
     }
 ];
 
-modules.exports = Movies;
+module.exports = Movies;
