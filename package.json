@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "querystring": "^0.2.0",
+    "xml2js": "^0.4.12"
+  }
 }
