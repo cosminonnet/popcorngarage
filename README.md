@@ -7,6 +7,11 @@ PopCorn Garage
 Finding the solution
 ====================
 
+Read the blog article
+---------------------
+Check out this blog article for a more detailed presentation: [Coding a solution for PopCorn Garage](http://cosmin-molea.com/2015/10/18/coding-a-solution-for-popcorn-garage/).
+
+
 Create a list of movies to test
 -------------------------------
 
